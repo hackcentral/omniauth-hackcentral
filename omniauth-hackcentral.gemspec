@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |gem|
   gem.name        = "omniauth-hackcentral"
-  gem.version     = '0.0.0'
+  gem.version     = '0.5.0'
   gem.authors     = ["Jon Moss"]
   gem.email       = ["me@jonathanmoss.me"]
   gem.homepage    = "https://github.com/hackcentral/omniauth-hackcentral"
