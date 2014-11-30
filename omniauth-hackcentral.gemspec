@@ -1,9 +1,8 @@
 # -*- encoding: utf-8 -*-
-require File.expand_path('../lib/omniauth-hackcentral/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.name        = "omniauth-hackcentral"
-  gem.version     = OmniAuth::HackCentral::VERSION
+  gem.version     = '0.0.0'
   gem.authors     = ["Jon Moss"]
   gem.email       = ["me@jonathanmoss.me"]
   gem.homepage    = "https://github.com/hackcentral/omniauth-hackcentral"
